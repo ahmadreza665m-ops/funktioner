@@ -6,5 +6,5 @@ const halsa = (name,age,roll="gäst") => {
     console.log("du är myndigt")
 
 }
-halsa("ali",20,"student")
+halsa("ali",20,"student ")
 
